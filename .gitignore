@@ -1,0 +1,5 @@
+.DS_Store
+./Data/.DS_Store
+./Logs/.DS_Store
+./Metrics/.DS_Store
+./Models/.DS_Store
