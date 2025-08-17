@@ -1,6 +1,8 @@
 # Brain Tumour Identification
 
-This project uses a deep learning model to accurately identify brain tumors from MRI scans.
+**This project uses a deep learning model to accurately identify brain tumors from MRI scans.**
+
+![Brain_Tumour_MRI_Scans](./Banner/Brain_Tumour_MRI_Scans.png)
 
 ## Project Overview
 
