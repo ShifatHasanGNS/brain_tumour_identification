@@ -1,0 +1,7 @@
+opencv-python
+numpy
+tensorflow
+tiktoken
+matplotlib
+psutil
+scikit-learn
