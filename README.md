@@ -2,14 +2,6 @@
 
 This project uses a deep learning model to accurately identify brain tumors from MRI scans.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Models](#models)
-- [Usage](#usage)
-- [Results](#results)
-
 ## Project Overview
 
 The goal of this project is to build a model that can classify different types of brain tumors from MRI images. The primary notebook for this project is `main.ipynb`, which contains the complete workflow from data preprocessing to model training and evaluation. The `helper.ipynb` notebook contains utility functions used in the main notebook.
@@ -34,3 +26,15 @@ To run this project, you will need to have Python and the necessary libraries in
 ## Results
 
 The performance of the models is documented in the `Logs/` and `Metrics/` directories. These include training logs, confusion matrices, and plots of loss and accuracy.
+
+---
+
+_**Contact**_
+
+[Facebook](https://www.facebook.com/ShifatHasanGNS/)
+&emsp;
+[Instagram](https://www.instagram.com/ShifatHasanGNS/)
+&emsp;
+[Linkedin](https://www.linkedin.com/in/md-shifat-hasan-8179402b4/)
+&emsp;
+[X](https://x.com/ShifatHasanGNS)
