@@ -1,0 +1,26 @@
+Training Set Classification Report:
+================================================================================
+                  precision    recall  f1-score   support
+
+    glioma_tumor     0.9703    0.9377    0.9537      3000
+meningioma_tumor     0.9309    0.9603    0.9454      3000
+ pituitary_tumor     0.9816    0.9933    0.9874      3000
+        no_tumor     0.9946    0.9847    0.9896      3000
+
+        accuracy                         0.9690     12000
+       macro avg     0.9693    0.9690    0.9690     12000
+    weighted avg     0.9693    0.9690    0.9690     12000
+
+
+Test Set Classification Report:
+================================================================================
+                  precision    recall  f1-score   support
+
+    glioma_tumor     0.5667    0.1700    0.2615       200
+meningioma_tumor     0.5970    0.8000    0.6838       200
+ pituitary_tumor     0.6860    0.2950    0.4126       200
+        no_tumor     0.4948    0.9550    0.6519       200
+
+        accuracy                         0.5550       800
+       macro avg     0.5861    0.5550    0.5024       800
+    weighted avg     0.5861    0.5550    0.5024       800

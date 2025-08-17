@@ -1,0 +1,70 @@
+{
+    "training": {
+        "loss": 0.13109555840492249,
+        "accuracy": 0.9630833268165588,
+        "precision": 0.9656616449356079,
+        "recall": 0.9608333110809326,
+        "auc": 0.9976557493209839,
+        "classification_report": "                  precision    recall  f1-score   support\n\n    glioma_tumor     0.9725    0.9207    0.9459      3000\nmeningioma_tumor     0.9162    0.9553    0.9354      3000\n pituitary_tumor     0.9766    0.9890    0.9828      3000\n        no_tumor     0.9893    0.9873    0.9883      3000\n\n        accuracy                         0.9631     12000\n       macro avg     0.9637    0.9631    0.9631     12000\n    weighted avg     0.9637    0.9631    0.9631     12000\n",
+        "confusion_matrix": [
+            [
+                2762,
+                218,
+                14,
+                6
+            ],
+            [
+                67,
+                2866,
+                47,
+                20
+            ],
+            [
+                3,
+                24,
+                2967,
+                6
+            ],
+            [
+                8,
+                20,
+                10,
+                2962
+            ]
+        ]
+    },
+    "test": {
+        "loss": 2.671421527862549,
+        "accuracy": 0.5687500238418579,
+        "precision": 0.5685279369354248,
+        "recall": 0.5600000023841858,
+        "auc": 0.7414133548736572,
+        "classification_report": "                  precision    recall  f1-score   support\n\n    glioma_tumor     0.5926    0.1600    0.2520       200\nmeningioma_tumor     0.6142    0.8200    0.7024       200\n pituitary_tumor     0.7614    0.3350    0.4653       200\n        no_tumor     0.4910    0.9600    0.6497       200\n\n        accuracy                         0.5687       800\n       macro avg     0.6148    0.5687    0.5173       800\n    weighted avg     0.6148    0.5687    0.5173       800\n",
+        "confusion_matrix": [
+            [
+                32,
+                58,
+                11,
+                99
+            ],
+            [
+                0,
+                164,
+                9,
+                27
+            ],
+            [
+                18,
+                42,
+                67,
+                73
+            ],
+            [
+                4,
+                3,
+                1,
+                192
+            ]
+        ]
+    }
+}
